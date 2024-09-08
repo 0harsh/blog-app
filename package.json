@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/anishdalvi/MERN-Blog-Application/issues"
   },
-  "homepage": "https://github.com/anishdalvi/MERN-Blog-Application#readme"
+  "homepage": "https://github.com/anishdalvi/MERN-Blog-Application#readme",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
 }
